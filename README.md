@@ -1,0 +1,7 @@
+# Entrega-Clase-16
+.env
+DATABASE_HOST=localhost
+DATABASE_PORT=3306
+DATABASE_USER=root
+DATABASE_PASSWORD=root_password
+DATABASE_NAME=productos
